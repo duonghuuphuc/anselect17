@@ -1,7 +1,7 @@
 ## Answer Selection for Python (Sept, 2017) ##
 
 
-Code for the paper **A Hybrid Approach to Answer Selection in Question Answering Systems**
+Code for the paper **A Hybrid Approach to Answer Selection in Question Answering Systems** (IUKM, 2018)
 
 ## Requirement
 
